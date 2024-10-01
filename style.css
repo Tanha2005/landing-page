@@ -128,62 +128,8 @@ footer{
 
 
 /* Mobile styles */
-@media (max-width: 600px) {
-    .container {
-        max-width: 90vw;
-        padding: 0 10px;
-    }
-
-    .navbar {
-        flex-direction: row; /* Ensure navbar stays in a row */
-        justify-content: center; /* Center items */
-        padding: 10px; /* Adjust padding for mobile */
-    }
-
-    .navbar li {
-        margin: 0 8px;
-    }
-
-    .topleft {
-        width: 100%;
-        text-align: center;
-    }
-
-    .topright {
-        width: 100%;
-        justify-content: center;
-    }
-
-    .section1 h1 {
-        font-size: 1.2rem;
-    }
-
-    .section2 {
-        padding: 20px;
-    }
-
-    .section2 h1 {
-        font-size: 1.5rem;
-    }
-
-    .box {
-        min-width: 80vw;
-        margin: 10px 0;
-    }
-
-    .section3 {
-        padding: 20px;
-    }
-
-    .section3 table {
-        font-size: 0.9rem;
-    }
-    .FN{
-        display: none;
-    }
-    .dmbl{
-        padding: 3PX 0;
-    }
+@media (max-width: 500px) {
+    
 }
 
 
