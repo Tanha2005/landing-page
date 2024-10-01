@@ -1,0 +1,59 @@
+.min-h-screen{
+    min-height: 100vh;
+}
+.bg-clr{
+    background-color: red;
+}
+.container.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+.flex{
+    display: flex;
+}
+.items-center{
+    align-items: center;
+}
+.justify{
+    justify-content: space-between;
+}
+.justify-center{
+    justify-content: center;
+}
+.text-bold{
+    font-weight: bolder;
+}
+.flex-col{
+    flex-direction: column;
+}
+.my-1{
+    margin-top: 23px;
+    margin-bottom: 23px;
+}
+.my-2{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.my-3{
+    margin-top: 40px;
+}
+.px-2{
+    padding: 0 13px;
+}
+.text-blue{
+    color: rgb(148, 90, 202);
+}
+.btn{
+    padding: 7px 12px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 8px;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(144, 90, 202);
+}
+.text-center{
+    text-align: center;
+}
+.font{
+    font-size: 22px;
+}
